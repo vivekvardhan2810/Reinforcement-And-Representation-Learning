@@ -23,3 +23,5 @@
 <p>From the above question we observe and get the result as for Q Values for Q learning and SARSA in decimal values like matrix</p>
 
 <b>3.</b> <h><b>Implement Q learning algorithms using any suitable example:</b></h>
+
+<p>This code implements a Q-learning algorithm to solve the FrozenLake environment from OpenAI Gym. The algorithm uses an epsilon-greedy policy for exploration-exploitation trade-off, and updates the Q-table using the Q-learning update rule. The epsilon value is decayed over time to reduce the amount of exploration as the agent learns. The Q-table is printed at the end of the training loop.</p>
