@@ -1,1 +1,2 @@
 # Reinforcement-And-Representation-Learning
+<p>Reinforcement Learning (RL) is a type of machine learning where an agent learns to make decisions by interacting with an environment. In RL, an agent learns to achieve a goal in a complex, uncertain environment by initially trying random actions and eventually learning to take actions that maximize some notion of cumulative reward. This learning process is built around the feedback loop of actions, states, and rewards.</p>
