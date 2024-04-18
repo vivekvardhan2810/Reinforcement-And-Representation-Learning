@@ -19,3 +19,4 @@
 
 6. All other actions result in –1 reward.
 </p>
+<p>From the above question we observe and get the result as for Q Values for Q learning and SARSA in decimal values like matrix</p>
