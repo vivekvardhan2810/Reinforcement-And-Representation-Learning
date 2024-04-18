@@ -4,4 +4,18 @@
 <h><b>Static vs Dynamic Environments:</b></h>
 <p>In a static environment, the state of the environment does not change unless acted upon by the agent. The rules, states, and rewards remain consistent throughout the learning and execution phases.</p>
 <p>In dynamic environments, the state of the environment can change independently of the agent's actions. This can be due to other agents, changes in the environment itself, or a time-evolving state.</p>
-<h><b>Implement a grid world environment using reinforcement learning by training Q-learning and SARSA agents</b>.</h>
+<h><b>Implement a grid world environment using reinforcement learning by training Q-learning and SARSA agents:</b></h>
+<p>This grid world environment has the following configuration and rules:
+
+1. The grid world is 5-by-5 and bounded by borders, with four possible actions (North = 1, South = 2, East = 3, West = 4).
+
+2. The agent begins from cell [2,1] (second row, first column).
+
+3. The agent receives a reward +10 if it reaches the terminal state at cell [5,5] (blue).
+
+4. The environment contains a special jump from cell [2,4] to cell [4,4] with a reward of +5.
+
+5. The agent is blocked by obstacles (black cells).
+
+6. All other actions result in –1 reward.
+</p>
