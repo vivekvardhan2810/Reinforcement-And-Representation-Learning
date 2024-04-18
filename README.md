@@ -4,3 +4,4 @@
 <h><b>Static vs Dynamic Environments:</b></h>
 <p>In a static environment, the state of the environment does not change unless acted upon by the agent. The rules, states, and rewards remain consistent throughout the learning and execution phases.</p>
 <p>In dynamic environments, the state of the environment can change independently of the agent's actions. This can be due to other agents, changes in the environment itself, or a time-evolving state.</p>
+<h><b>Implement a grid world environment using reinforcement learning by training Q-learning and SARSA agents</b>.</h>
